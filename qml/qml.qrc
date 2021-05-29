@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>FeatureButton.qml</file>
+        <file>GlowingLabel.qml</file>
+        <file>CustomGlow.qml</file>
+        <file>BobbycarMainWindow.qml</file>
+        <file>main-dev.qml</file>
+        <file>main-raspberry.qml</file>
+        <file>CenterPane.qml</file>
+        <file>leftPanes/CommandPane.qml</file>
+        <file>leftPanes/MessagePane.qml</file>
+        <file>leftPanes/MusicPane.qml</file>
+        <file>leftPanes/NavigationPane.qml</file>
+        <file>leftPanes/SettingsPane.qml</file>
+        <file>rightPanes/AirCondPane.qml</file>
+        <file>rightPanes/SeatsPane.qml</file>
+        <file>rightPanes/StatisticsPane.qml</file>
+        <file>rightPanes/StatusPane.qml</file>
+        <file>rightPanes/WindowsPane.qml</file>
+        <file>LeftButtonBar.qml</file>
+        <file>RightButtonBar.qml</file>
+        <file>inputdemo/AutoScroller.qml</file>
+        <file>inputdemo/FloatingButton_Active.svg</file>
+        <file>inputdemo/FloatingButton_Available.svg</file>
+        <file>inputdemo/FloatingButton_Unavailable.svg</file>
+        <file>inputdemo/HandwritingModeButton.qml</file>
+        <file>inputdemo/InputDemo.qml</file>
+        <file>inputdemo/TextArea.qml</file>
+        <file>inputdemo/TextField.qml</file>
+        <file>inputdemo/Basic.qml</file>
+    </qresource>
+</RCC>
